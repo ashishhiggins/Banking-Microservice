@@ -1,0 +1,14 @@
+
+
+build:
+  version: "1.0"
+
+
+cards:
+  message: "Welcome to EazyBank Cards Microservice PROD Environment"
+  contactDetails:
+    name: "Ashish Higgins"
+    email: "ashishhiggins10@gmail.com"
+  onCallSupport:
+    - (555) 555-4444
+    - (555) 555-3333

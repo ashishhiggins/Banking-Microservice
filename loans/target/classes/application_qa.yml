@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on_profile: "qa"
+
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to EazyBank Loans Microservice related to QA"
+  contactDetails:
+    name: "Ashish Higgins"
+    email: "ashishhiggins10@gmail.com"
+  onCallSupport:
+    - (555) 555-7777
+    - (555) 555-2222

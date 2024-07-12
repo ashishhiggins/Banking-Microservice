@@ -1,0 +1,13 @@
+
+build:
+  version: "2.0"
+
+
+cards:
+  message: "Welcome to EazyBank Cards Microservice QA Environment"
+  contactDetails:
+    name: "Ashish Higgins"
+    email: "ashishhiggins10@gmail.com"
+  onCallSupport:
+    - (555) 555-9999
+    - (555) 555-8888

@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank Accounts Microservice related to QA"
+  contactDetails:
+    name: "Ashish Higgins - QA"
+    email: "ashish@gmail.com"
+  onCallSupport:
+    - (555) 555-9999
+    - (555) 555-5432

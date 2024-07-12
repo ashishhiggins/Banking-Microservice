@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on_profile: "prod"
+
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to EazyBank Loans Microservice related to PROD"
+  contactDetails:
+    name: "Ashish Higgins"
+    email: "ashishhiggins10@gmail.com"
+  onCallSupport:
+    - (555) 555-0000
+    - (555) 555-9999

@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank Accounts Microservice for PROD"
+  contactDetails:
+    name: "Ashish Higgins_PROD"
+    email: "ashish@gmail.com"
+  onCallSupport:
+    - (555) 555-0000
+    - (555) 555-1111
