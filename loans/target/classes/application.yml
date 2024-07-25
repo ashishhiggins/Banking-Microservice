@@ -58,6 +58,9 @@ management:
       enabled: true
     readiness-state:
         enabled: true
+  metrics:
+    tags:
+      application: ${spring.application.name}
 
 endpoints:
   shutdown:
